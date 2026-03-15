@@ -1,5 +1,5 @@
 # RNN-Based 3D Animation Prediction in Blender 🎥✨
-
+[![RNN-Based 3D Animation Prediction](https://raw.githubusercontent.com/chaithanyakasi27/RNN-Blender-Animation-Predictor/refs/heads/main/thumbnail.jpg)](https://vimeo.com/1120971559?fl=pl&fe=sh)
 This project demonstrates how to use a **Recurrent Neural Network (RNN with LSTMs)** to predict **future animation frames** and extend 3D character motion in **Blender**. Instead of static motion capture, the character continues moving in a realistic way — generated purely by AI.  
 
 ---
